@@ -1,0 +1,82 @@
+
+
+
+.allow{
+    text-align: center;
+    margin-top: 50px;
+    
+}
+.final{
+    text-align: center;
+    margin-top: 50px;
+    color:midnightblue;
+}
+.pom{
+
+    height: 30%;
+    width: 40%;
+   margin-top: 5%;
+    margin-left: 40%;
+}
+
+.btn {
+  
+    border: 5px solid blue;
+    border-radius: 10px;
+    background-color:cornflowerblue;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 40%;
+}
+
+#birthday{
+    display:none;
+   
+}
+.border{
+    border:2px solid white;
+    margin:2px;
+}
+.wait{
+   
+     display:block;
+    font-size:30px;
+   box-shadow: 5px gray;
+   margin-right:10%;
+    margin-left:20%;
+    text-align: left;
+    margin-top:5%;
+    width: 40%;
+    float:left;
+    
+    margin-left: 5%;
+    padding-left: 2%;
+background-color: gray;
+    box-shadow: 40px 40px 40px black;
+    
+    
+}
+.bubble{
+    
+    font-size:30px;
+    
+    margin-top: 10%;
+    text-align: left;
+    margin-left: 20%;
+}
+.bird{
+    text-align: center;
+    font-size:30px;
+    margin-left: 10%;
+
+}
+
+.other{
+    border-radius: 10px;
+    margin-left: 10%;
+    margin-right:5%;
+    margin-bottom: 5%;
+    background-color:mediumpurple;
+    padding:10%;
+    
+}
